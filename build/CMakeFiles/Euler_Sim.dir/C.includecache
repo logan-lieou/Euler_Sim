@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/loganj/Projects/C_Projects/Euler_Sim/src/main.c
+SFML/Graphics.h
+-
+SFML/Window/Context.h
+-
+
