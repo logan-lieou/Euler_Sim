@@ -6,19 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/loganj/Projects/C++_Projects/Euler_Sim/src/main.cpp
+/home/loganj/Projects/C_Projects/Euler_Sim/src/main.cpp
 SFML/Graphics.hpp
+-
+SFML/Graphics/RectangleShape.hpp
 -
 iostream
 -
-physics.h
-/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.h
+vector
+-
+physics.hpp
+/home/loganj/Projects/C_Projects/Euler_Sim/src/physics.hpp
 
-/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.cpp
-physics.h
-/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.h
-
-/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.h
+/home/loganj/Projects/C_Projects/Euler_Sim/src/physics.hpp
 SFML/Graphics.hpp
+-
+vector
+-
+cmath
 -
 
