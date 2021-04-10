@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/main.cpp
+SFML/Graphics.hpp
+-
+iostream
+-
+physics.h
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.h
+
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.cpp
+physics.h
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.h
+
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.h
+SFML/Graphics.hpp
+-
+
