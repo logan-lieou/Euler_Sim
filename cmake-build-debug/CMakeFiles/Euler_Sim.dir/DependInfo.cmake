@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/loganj/Projects/C_Projects/Euler_Sim/src/main.cpp" "/home/loganj/Projects/C_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/Euler_Sim.dir/src/main.cpp.o"
-  "/home/loganj/Projects/C_Projects/Euler_Sim/src/physics.cpp" "/home/loganj/Projects/C_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/Euler_Sim.dir/src/physics.cpp.o"
+  "/home/loganj/Projects/C++_Projects/Euler_Sim/src/main.cpp" "/home/loganj/Projects/C++_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/Euler_Sim.dir/src/main.cpp.o"
+  "/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.cpp" "/home/loganj/Projects/C++_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/Euler_Sim.dir/src/physics.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

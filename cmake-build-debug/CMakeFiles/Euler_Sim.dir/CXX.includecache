@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/loganj/Projects/C_Projects/Euler_Sim/src/main.cpp
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/main.cpp
 SFML/Graphics.hpp
 -
 SFML/Graphics/RectangleShape.hpp
@@ -16,9 +16,13 @@ iostream
 vector
 -
 physics.hpp
-/home/loganj/Projects/C_Projects/Euler_Sim/src/physics.hpp
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.hpp
 
-/home/loganj/Projects/C_Projects/Euler_Sim/src/physics.hpp
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.cpp
+physics.hpp
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.hpp
+
+/home/loganj/Projects/C++_Projects/Euler_Sim/src/physics.hpp
 SFML/Graphics.hpp
 -
 vector
