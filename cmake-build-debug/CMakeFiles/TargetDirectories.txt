@@ -1,3 +1,0 @@
-/home/loganj/Projects/C++_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/loganj/Projects/C++_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/loganj/Projects/C++_Projects/Euler_Sim/cmake-build-debug/CMakeFiles/Euler_Sim.dir

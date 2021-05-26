@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Euler_Sim.dir/src/main.cpp.o CMakeFiles/Euler_Sim.dir/src/physics.cpp.o  -o Euler_Sim  -lGL -lsfml-window -lsfml-graphics -lsfml-system 
